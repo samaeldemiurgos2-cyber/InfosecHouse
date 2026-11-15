@@ -65,8 +65,8 @@
   "archived": false
  },
  "AIPentest/CyberStrikeAI": {
-  "stars": 8627,
-  "pushed": "2026-11-14",
+  "stars": 8649,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "APKLab/APKLab": {
@@ -85,8 +85,8 @@
   "archived": false
  },
  "Agent-Threat-Rule/agent-threat-rules": {
-  "stars": 430,
-  "pushed": "2026-11-14",
+  "stars": 431,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "AlessandroZ/LaZagne": {
@@ -150,8 +150,8 @@
   "archived": false
  },
  "BitterSecurity/Decepticon": {
-  "stars": 6602,
-  "pushed": "2026-11-14",
+  "stars": 6607,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "BloodHoundAD/BloodHound": {
@@ -196,8 +196,8 @@
   "archived": false
  },
  "CyberStrikeus/CyberStrike": {
-  "stars": 3571,
-  "pushed": "2026-11-13",
+  "stars": 3580,
+  "pushed": "2026-11-14",
   "archived": false
  },
  "CyberStrikeus/bolt": {
@@ -269,8 +269,8 @@
   "archived": false
  },
  "EliasOenal/multimon-ng": {
-  "stars": 1144,
-  "pushed": "2026-10-19",
+  "stars": 1150,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "EnableSecurity/wafw00f": {
@@ -417,8 +417,8 @@
   "archived": false
  },
  "Ettercap/ettercap": {
-  "stars": 2809,
-  "pushed": "2026-11-13",
+  "stars": 2810,
+  "pushed": "2026-11-14",
   "archived": false
  },
  "FSecureLABS/C3": {
@@ -445,8 +445,8 @@
   "archived": false
  },
  "FishCodeTech/muteki": {
-  "stars": 651,
-  "pushed": "2026-11-03",
+  "stars": 679,
+  "pushed": "2026-11-14",
   "archived": false
  },
  "FrancescoStabile/numasec": {
@@ -537,8 +537,8 @@
   "archived": true
  },
  "JoasASantos/NeuroSploit": {
-  "stars": 1523,
-  "pushed": "2026-11-09",
+  "stars": 1533,
+  "pushed": "2026-11-14",
   "archived": false
  },
  "JohnCoates/flexdecrypt": {
@@ -675,8 +675,8 @@
   "archived": false
  },
  "MobSF/Mobile-Security-Framework-MobSF": {
-  "stars": 22223,
-  "pushed": "2026-11-14",
+  "stars": 22227,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "MustLive/DAVOSET": {
@@ -781,14 +781,14 @@
   "archived": false
  },
  "OWASP/Amass": {
-  "stars": 15513,
-  "pushed": "2026-11-14",
+  "stars": 15515,
+  "pushed": "2026-11-15",
   "archived": false,
   "moved_to": "owasp-amass/amass"
  },
  "OWASP/CheatSheetSeries": {
-  "stars": 34032,
-  "pushed": "2026-11-12",
+  "stars": 34065,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "OWASP/DockSec": {
@@ -808,8 +808,8 @@
   "moved_to": "OWASP/mastg"
  },
  "OpenCTI-Platform/opencti": {
-  "stars": 10365,
-  "pushed": "2026-11-14",
+  "stars": 10371,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "OpenOSINT/OpenOSINT": {
@@ -1050,8 +1050,8 @@
   "archived": false
  },
  "TokTok/c-toxcore": {
-  "stars": 2706,
-  "pushed": "2026-11-14",
+  "stars": 2703,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "Trusted-AI/adversarial-robustness-toolbox": {
@@ -1095,8 +1095,8 @@
   "archived": true
  },
  "Velocidex/velociraptor": {
-  "stars": 4456,
-  "pushed": "2026-11-14",
+  "stars": 4464,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "WaTF-Team/WaTF-Bank": {
@@ -1105,8 +1105,8 @@
   "archived": false
  },
  "WebFuzzing/EvoMaster": {
-  "stars": 806,
-  "pushed": "2026-11-13",
+  "stars": 807,
+  "pushed": "2026-11-14",
   "archived": false
  },
  "WithSecureLabs/IceKube": {
@@ -1319,8 +1319,8 @@
   "archived": false
  },
  "beenuar/AiSOC": {
-  "stars": 7523,
-  "pushed": "2026-11-14",
+  "stars": 7820,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "berke/wipe": {
@@ -1329,8 +1329,8 @@
   "archived": false
  },
  "berylliumsec/nebula": {
-  "stars": 1161,
-  "pushed": "2026-11-14",
+  "stars": 1162,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "bethgelab/foolbox": {
@@ -1424,8 +1424,8 @@
   "archived": false
  },
  "checkstyle/checkstyle": {
-  "stars": 9648,
-  "pushed": "2026-11-14",
+  "stars": 9656,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "chenjj/espoofer": {
@@ -1460,12 +1460,12 @@
  },
  "commixproject/commix": {
   "stars": 5907,
-  "pushed": "2026-11-14",
+  "pushed": "2026-11-15",
   "archived": false
  },
  "compiler-explorer/compiler-explorer": {
-  "stars": 19185,
-  "pushed": "2026-11-13",
+  "stars": 19188,
+  "pushed": "2026-11-14",
   "archived": false
  },
  "confident-ai/deepteam": {
@@ -1480,7 +1480,7 @@
  },
  "cowrie/cowrie": {
   "stars": 6680,
-  "pushed": "2026-11-13",
+  "pushed": "2026-11-15",
   "archived": false
  },
  "crowdsecurity/crowdsec": {
@@ -1509,8 +1509,8 @@
   "archived": false
  },
  "danielmiessler/SecLists": {
-  "stars": 74755,
-  "pushed": "2026-11-14",
+  "stars": 74767,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "davidprowe/BadBlood": {
@@ -1604,8 +1604,8 @@
   "archived": false
  },
  "elementalsouls/Claude-BugHunter": {
-  "stars": 5798,
-  "pushed": "2026-11-14",
+  "stars": 5922,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "epi052/feroxbuster": {
@@ -1701,7 +1701,7 @@
  },
  "firefart/websitewatcher": {
   "stars": 31,
-  "pushed": "2026-11-13",
+  "pushed": "2026-11-14",
   "archived": false
  },
  "fleetcaptain/Turbolist3r": {
@@ -1770,8 +1770,8 @@
   "archived": false
  },
  "google/error-prone": {
-  "stars": 7271,
-  "pushed": "2026-11-14",
+  "stars": 7272,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "google/google-authenticator": {
@@ -1821,8 +1821,8 @@
   "archived": false
  },
  "hashcat/hashcat": {
-  "stars": 27345,
-  "pushed": "2026-11-14",
+  "stars": 27351,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "hephaest0s/usbkill": {
@@ -1857,8 +1857,8 @@
   "archived": false
  },
  "horsicq/Detect-It-Easy": {
-  "stars": 11949,
-  "pushed": "2026-11-14",
+  "stars": 11951,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "hubert3/iSniff-GPS": {
@@ -1931,8 +1931,8 @@
   "archived": true
  },
  "its-a-feature/Mythic": {
-  "stars": 4908,
-  "pushed": "2026-11-13",
+  "stars": 4911,
+  "pushed": "2026-11-14",
   "archived": false
  },
  "ivan-sincek/php-reverse-shell": {
@@ -1967,7 +1967,7 @@
  },
  "jonhadfield/ipscout": {
   "stars": 10,
-  "pushed": "2026-11-14",
+  "pushed": "2026-11-15",
   "archived": false
  },
  "joswr1ght/bss": {
@@ -2022,7 +2022,7 @@
  },
  "kaikramer/keystore-explorer": {
   "stars": 2079,
-  "pushed": "2026-11-14",
+  "pushed": "2026-11-15",
   "archived": false
  },
  "kbandla/dpkt": {
@@ -2046,8 +2046,8 @@
   "archived": false
  },
  "kismetwireless/kismet": {
-  "stars": 2262,
-  "pushed": "2026-11-13",
+  "stars": 2263,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "kkamagui/bitleaker": {
@@ -2235,8 +2235,8 @@
   "archived": false
  },
  "mitmproxy/mitmproxy": {
-  "stars": 46877,
-  "pushed": "2026-11-13",
+  "stars": 46978,
+  "pushed": "2026-11-14",
   "archived": false
  },
  "mitre/caldera": {
@@ -2256,8 +2256,8 @@
   "archived": false
  },
  "morluto/rea": {
-  "stars": 458838,
-  "pushed": "2026-11-14",
+  "stars": 461055,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "morpheuslord/HackBot": {
@@ -2444,8 +2444,8 @@
   "archived": false
  },
  "nolabs-ai/nono": {
-  "stars": 4957,
-  "pushed": "2026-11-13",
+  "stars": 4989,
+  "pushed": "2026-11-14",
   "archived": false
  },
  "noveogroup/android-check": {
@@ -2470,8 +2470,8 @@
   "archived": false
  },
  "openai/codex-security": {
-  "stars": 13436,
-  "pushed": "2026-11-14",
+  "stars": 13586,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "openhackai/OpenHack": {
@@ -2485,8 +2485,8 @@
   "archived": false
  },
  "opnsense/core": {
-  "stars": 4800,
-  "pushed": "2026-11-14",
+  "stars": 4802,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "oritera/Cairn": {
@@ -2531,8 +2531,8 @@
   "archived": false
  },
  "peass-ng/PEASS-ng": {
-  "stars": 20828,
-  "pushed": "2026-11-14",
+  "stars": 20832,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "pentestgeek/phishing-frenzy": {
@@ -2551,8 +2551,8 @@
   "archived": false
  },
  "pipelab-org/pipelock": {
-  "stars": 991,
-  "pushed": "2026-11-14",
+  "stars": 994,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "pmd/pmd": {
@@ -2611,8 +2611,8 @@
   "archived": false
  },
  "promptfoo/promptfoo": {
-  "stars": 27166,
-  "pushed": "2026-11-14",
+  "stars": 27221,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "protectai/llm-guard": {
@@ -2672,8 +2672,8 @@
   "archived": false
  },
  "radareorg/radare2": {
-  "stars": 25429,
-  "pushed": "2026-11-14",
+  "stars": 25436,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "ramkansal/pentestMCP": {
@@ -2903,8 +2903,8 @@
   "archived": false
  },
  "sherlock-project/sherlock": {
-  "stars": 111523,
-  "pushed": "2026-11-14",
+  "stars": 112135,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "shieldfy/API-Security-Checklist": {
@@ -2949,8 +2949,8 @@
   "archived": false
  },
  "snipe/snipe-it": {
-  "stars": 15173,
-  "pushed": "2026-11-12",
+  "stars": 15190,
+  "pushed": "2026-11-14",
   "archived": false,
   "moved_to": "grokability/snipe-it"
  },
@@ -3197,8 +3197,8 @@
   "archived": false
  },
  "vanhauser-thc/thc-hydra": {
-  "stars": 12497,
-  "pushed": "2026-11-08",
+  "stars": 12509,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "vanhoefm/krackattacks-scripts": {
@@ -3287,8 +3287,8 @@
   "archived": false
  },
  "xalgorix/xalgorix": {
-  "stars": 1349,
-  "pushed": "2026-11-14",
+  "stars": 1355,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "xchwarze/Cain": {
@@ -3342,8 +3342,8 @@
   "archived": true
  },
  "zeek/zeek": {
-  "stars": 8237,
-  "pushed": "2026-11-14",
+  "stars": 8241,
+  "pushed": "2026-11-15",
   "archived": false
  },
  "zinja-coder/jadx-mcp-server": {
