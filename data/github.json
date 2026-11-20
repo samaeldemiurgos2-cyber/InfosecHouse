@@ -75,8 +75,8 @@
   "archived": false
  },
  "ASCIT31/Dark-Moon": {
-  "stars": 1272,
-  "pushed": "2026-11-19",
+  "stars": 1275,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "AdamLaurie/RFIDIOt": {
@@ -86,7 +86,7 @@
  },
  "Agent-Threat-Rule/agent-threat-rules": {
   "stars": 439,
-  "pushed": "2026-11-19",
+  "pushed": "2026-11-20",
   "archived": false
  },
  "AlessandroZ/LaZagne": {
@@ -150,8 +150,8 @@
   "archived": false
  },
  "BitterSecurity/Decepticon": {
-  "stars": 6641,
-  "pushed": "2026-11-18",
+  "stars": 6657,
+  "pushed": "2026-11-19",
   "archived": false
  },
  "BloodHoundAD/BloodHound": {
@@ -196,8 +196,8 @@
   "archived": false
  },
  "CyberStrikeus/CyberStrike": {
-  "stars": 3651,
-  "pushed": "2026-11-18",
+  "stars": 3662,
+  "pushed": "2026-11-19",
   "archived": false
  },
  "CyberStrikeus/bolt": {
@@ -582,13 +582,13 @@
   "archived": false
  },
  "KeygraphHQ/shannon": {
-  "stars": 52079,
-  "pushed": "2026-11-19",
+  "stars": 52124,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "Kong/insomnia": {
-  "stars": 40168,
-  "pushed": "2026-11-19",
+  "stars": 40176,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "KritantaDev/ktool": {
@@ -619,7 +619,7 @@
  },
  "LinOTP/LinOTP": {
   "stars": 550,
-  "pushed": "2026-11-13",
+  "pushed": "2026-11-20",
   "archived": false
  },
  "LiuYuancheng/ChatGPT_on_CTF": {
@@ -645,8 +645,8 @@
   "moved_to": "ciyze0101/Windows-Rootkits"
  },
  "MISP/MISP": {
-  "stars": 6679,
-  "pushed": "2026-11-19",
+  "stars": 6683,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "MS3FGX/Bluelog": {
@@ -720,8 +720,8 @@
   "archived": false
  },
  "NationalSecurityAgency/ghidra": {
-  "stars": 100659,
-  "pushed": "2026-11-19",
+  "stars": 100755,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "Ne0nd0g/merlin": {
@@ -781,8 +781,8 @@
   "archived": false
  },
  "OWASP/Amass": {
-  "stars": 15535,
-  "pushed": "2026-11-19",
+  "stars": 15539,
+  "pushed": "2026-11-20",
   "archived": false,
   "moved_to": "owasp-amass/amass"
  },
@@ -808,8 +808,8 @@
   "moved_to": "OWASP/mastg"
  },
  "OpenCTI-Platform/opencti": {
-  "stars": 10400,
-  "pushed": "2026-11-19",
+  "stars": 10408,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "OpenOSINT/OpenOSINT": {
@@ -1030,8 +1030,8 @@
   "archived": true
  },
  "Tencent/AI-Infra-Guard": {
-  "stars": 7578,
-  "pushed": "2026-11-19",
+  "stars": 7599,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "TheHive-Project/Cortex": {
@@ -1051,7 +1051,7 @@
  },
  "TokTok/c-toxcore": {
   "stars": 2709,
-  "pushed": "2026-11-19",
+  "pushed": "2026-11-20",
   "archived": false
  },
  "Trusted-AI/adversarial-robustness-toolbox": {
@@ -1095,8 +1095,8 @@
   "archived": true
  },
  "Velocidex/velociraptor": {
-  "stars": 4485,
-  "pushed": "2026-11-19",
+  "stars": 4489,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "WaTF-Team/WaTF-Bank": {
@@ -1105,8 +1105,8 @@
   "archived": false
  },
  "WebFuzzing/EvoMaster": {
-  "stars": 810,
-  "pushed": "2026-11-19",
+  "stars": 809,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "WithSecureLabs/IceKube": {
@@ -1141,8 +1141,8 @@
   "archived": false
  },
  "aboutcode-org/scancode-toolkit": {
-  "stars": 2670,
-  "pushed": "2026-11-11",
+  "stars": 2676,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "abrignoni/DFIR-SQL-Query-Repo": {
@@ -1204,13 +1204,13 @@
   "archived": false
  },
  "anchore/grype": {
-  "stars": 13300,
-  "pushed": "2026-11-19",
+  "stars": 13307,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "anchore/syft": {
-  "stars": 9902,
-  "pushed": "2026-11-16",
+  "stars": 9939,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "andOTP/andOTP": {
@@ -1259,8 +1259,8 @@
   "archived": false
  },
  "aquasecurity/trivy": {
-  "stars": 39537,
-  "pushed": "2026-11-19",
+  "stars": 39573,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "arguslab/Argus-SAF": {
@@ -1319,8 +1319,8 @@
   "archived": false
  },
  "beenuar/AiSOC": {
-  "stars": 7322,
-  "pushed": "2026-11-19",
+  "stars": 7073,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "berke/wipe": {
@@ -1330,7 +1330,7 @@
  },
  "berylliumsec/nebula": {
   "stars": 1162,
-  "pushed": "2026-11-19",
+  "pushed": "2026-11-20",
   "archived": false
  },
  "bethgelab/foolbox": {
@@ -1339,13 +1339,13 @@
   "archived": false
  },
  "bethington/ghidra-mcp": {
-  "stars": 6273,
-  "pushed": "2026-11-18",
+  "stars": 6301,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "bettercap/bettercap": {
-  "stars": 20279,
-  "pushed": "2026-11-10",
+  "stars": 20322,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "blark/aiodnsbrute": {
@@ -1404,8 +1404,8 @@
   "archived": false
  },
  "capstone-engine/capstone": {
-  "stars": 9204,
-  "pushed": "2026-11-19",
+  "stars": 9207,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "carnal0wnage/weirdAAL": {
@@ -1419,13 +1419,13 @@
   "archived": false
  },
  "chainreactors/cyber-harness": {
-  "stars": 422,
-  "pushed": "2026-11-17",
+  "stars": 430,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "checkstyle/checkstyle": {
-  "stars": 9660,
-  "pushed": "2026-11-19",
+  "stars": 9659,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "chenjj/espoofer": {
@@ -1459,13 +1459,13 @@
   "archived": false
  },
  "commixproject/commix": {
-  "stars": 5913,
-  "pushed": "2026-11-19",
+  "stars": 5911,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "compiler-explorer/compiler-explorer": {
   "stars": 19200,
-  "pushed": "2026-11-19",
+  "pushed": "2026-11-20",
   "archived": false
  },
  "confident-ai/deepteam": {
@@ -1484,8 +1484,8 @@
   "archived": false
  },
  "crowdsecurity/crowdsec": {
-  "stars": 15698,
-  "pushed": "2026-11-19",
+  "stars": 15713,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "curated-intel/Log4Shell-IOCs": {
@@ -1509,8 +1509,8 @@
   "archived": false
  },
  "danielmiessler/SecLists": {
-  "stars": 74840,
-  "pushed": "2026-11-19",
+  "stars": 74859,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "davidprowe/BadBlood": {
@@ -1604,8 +1604,8 @@
   "archived": false
  },
  "elementalsouls/Claude-BugHunter": {
-  "stars": 11972,
-  "pushed": "2026-11-19",
+  "stars": 13601,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "epi052/feroxbuster": {
@@ -1679,8 +1679,8 @@
   "archived": false
  },
  "facebook/infer": {
-  "stars": 15759,
-  "pushed": "2026-11-19",
+  "stars": 15761,
+  "pushed": "2026-11-20",
   "archived": false,
   "moved_to": "meta/infer"
  },
@@ -1701,7 +1701,7 @@
  },
  "firefart/websitewatcher": {
   "stars": 31,
-  "pushed": "2026-11-18",
+  "pushed": "2026-11-19",
   "archived": false
  },
  "fleetcaptain/Turbolist3r": {
@@ -1720,8 +1720,8 @@
   "archived": false
  },
  "frida/frida": {
-  "stars": 22850,
-  "pushed": "2026-11-19",
+  "stars": 22862,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "gabriel-sztejnworcel/pipe-intercept": {
@@ -1760,8 +1760,8 @@
   "archived": false
  },
  "glpi-project/glpi": {
-  "stars": 6640,
-  "pushed": "2026-11-19",
+  "stars": 6642,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "goodwithtech/dockle": {
@@ -1771,7 +1771,7 @@
  },
  "google/error-prone": {
   "stars": 7276,
-  "pushed": "2026-11-19",
+  "pushed": "2026-11-20",
   "archived": false
  },
  "google/google-authenticator": {
@@ -1780,8 +1780,8 @@
   "archived": true
  },
  "google/mcp-security": {
-  "stars": 542,
-  "pushed": "2026-11-11",
+  "stars": 545,
+  "pushed": "2026-11-19",
   "archived": false
  },
  "google/oss-fuzz-gen": {
@@ -1821,8 +1821,8 @@
   "archived": false
  },
  "hashcat/hashcat": {
-  "stars": 27384,
-  "pushed": "2026-11-19",
+  "stars": 27390,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "hephaest0s/usbkill": {
@@ -1852,13 +1852,13 @@
   "archived": false
  },
  "hoppscotch/hoppscotch": {
-  "stars": 80788,
-  "pushed": "2026-11-05",
+  "stars": 80858,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "horsicq/Detect-It-Easy": {
-  "stars": 11974,
-  "pushed": "2026-11-19",
+  "stars": 11982,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "hubert3/iSniff-GPS": {
@@ -2241,7 +2241,7 @@
  },
  "mitre/caldera": {
   "stars": 7542,
-  "pushed": "2026-11-19",
+  "pushed": "2026-11-20",
   "archived": false,
   "moved_to": "apache/caldera"
  },
@@ -2256,8 +2256,8 @@
   "archived": false
  },
  "morluto/rea": {
-  "stars": 469482,
-  "pushed": "2026-11-19",
+  "stars": 471034,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "morpheuslord/HackBot": {
@@ -2439,13 +2439,13 @@
   "archived": false
  },
  "nmap/nmap": {
-  "stars": 14018,
-  "pushed": "2026-11-18",
+  "stars": 14035,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "nolabs-ai/nono": {
-  "stars": 5047,
-  "pushed": "2026-11-19",
+  "stars": 5054,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "noveogroup/android-check": {
@@ -2470,8 +2470,8 @@
   "archived": false
  },
  "openai/codex-security": {
-  "stars": 14176,
-  "pushed": "2026-11-19",
+  "stars": 14216,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "openhackai/OpenHack": {
@@ -2485,8 +2485,8 @@
   "archived": false
  },
  "opnsense/core": {
-  "stars": 4806,
-  "pushed": "2026-11-19",
+  "stars": 4808,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "oritera/Cairn": {
@@ -2541,8 +2541,8 @@
   "archived": false
  },
  "perplexityai/numbat": {
-  "stars": 1171,
-  "pushed": "2026-11-18",
+  "stars": 1174,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "pfsense/pfsense": {
@@ -2551,18 +2551,18 @@
   "archived": false
  },
  "pipelab-org/pipelock": {
-  "stars": 1007,
-  "pushed": "2026-11-19",
+  "stars": 1011,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "pmd/pmd": {
-  "stars": 5534,
-  "pushed": "2026-11-19",
+  "stars": 5538,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "praetorian-inc/augustus": {
-  "stars": 325,
-  "pushed": "2026-11-19",
+  "stars": 326,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "praetorian-inc/julius": {
@@ -2596,13 +2596,13 @@
   "archived": false
  },
  "projectdiscovery/naabu": {
-  "stars": 6385,
-  "pushed": "2026-11-19",
+  "stars": 6387,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "projectdiscovery/nuclei": {
-  "stars": 33120,
-  "pushed": "2026-11-19",
+  "stars": 33147,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "projectdiscovery/subfinder": {
@@ -2611,8 +2611,8 @@
   "archived": false
  },
  "promptfoo/promptfoo": {
-  "stars": 27457,
-  "pushed": "2026-11-19",
+  "stars": 27491,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "protectai/llm-guard": {
@@ -2667,13 +2667,13 @@
   "archived": false
  },
  "rabbitstack/fibratus": {
-  "stars": 2571,
-  "pushed": "2026-11-19",
+  "stars": 2570,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "radareorg/radare2": {
-  "stars": 25465,
-  "pushed": "2026-11-19",
+  "stars": 25471,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "ramkansal/pentestMCP": {
@@ -2903,8 +2903,8 @@
   "archived": false
  },
  "sherlock-project/sherlock": {
-  "stars": 114469,
-  "pushed": "2026-11-19",
+  "stars": 114887,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "shieldfy/API-Security-Checklist": {
@@ -2934,8 +2934,8 @@
   "archived": false
  },
  "skylot/jadx": {
-  "stars": 51908,
-  "pushed": "2026-11-18",
+  "stars": 51912,
+  "pushed": "2026-11-19",
   "archived": false
  },
  "skyvanguard/mcp-vanguard": {
@@ -2944,13 +2944,13 @@
   "archived": false
  },
  "sleuthkit/sleuthkit": {
-  "stars": 3192,
-  "pushed": "2026-11-14",
+  "stars": 3201,
+  "pushed": "2026-11-19",
   "archived": false
  },
  "snipe/snipe-it": {
-  "stars": 15199,
-  "pushed": "2026-11-18",
+  "stars": 15211,
+  "pushed": "2026-11-20",
   "archived": false,
   "moved_to": "grokability/snipe-it"
  },
@@ -3027,7 +3027,7 @@
  },
  "taranis-ai/taranis-ai": {
   "stars": 1243,
-  "pushed": "2026-11-19",
+  "pushed": "2026-11-20",
   "archived": false
  },
  "tarcisio-marinho/GonnaCry": {
@@ -3046,8 +3046,8 @@
   "archived": false
  },
  "telegramdesktop/tdesktop": {
-  "stars": 33616,
-  "pushed": "2026-11-19",
+  "stars": 33625,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "telekom-security/tpotce": {
@@ -3106,8 +3106,8 @@
   "archived": false
  },
  "toniblyx/prowler": {
-  "stars": 15288,
-  "pushed": "2026-11-19",
+  "stars": 15294,
+  "pushed": "2026-11-20",
   "archived": false,
   "moved_to": "prowler-cloud/prowler"
  },
@@ -3142,8 +3142,8 @@
   "archived": false
  },
  "trufflesecurity/truffleHog": {
-  "stars": 29501,
-  "pushed": "2026-11-18",
+  "stars": 29543,
+  "pushed": "2026-11-19",
   "archived": false
  },
  "trustedsec/social-engineer-toolkit": {
@@ -3162,8 +3162,8 @@
   "archived": false
  },
  "uber/ADR": {
-  "stars": 2133,
-  "pushed": "2026-11-13",
+  "stars": 2142,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "usdAG/slipit": {
@@ -3238,7 +3238,7 @@
  },
  "vyos/vyos-build": {
   "stars": 1331,
-  "pushed": "2026-11-19",
+  "pushed": "2026-11-20",
   "archived": false
  },
  "wallarm/gotestwaf": {
@@ -3247,8 +3247,8 @@
   "archived": false
  },
  "wazuh/wazuh": {
-  "stars": 17827,
-  "pushed": "2026-11-19",
+  "stars": 17838,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "webbreacher/whatsmyname": {
@@ -3277,8 +3277,8 @@
   "archived": false
  },
  "wpscanteam/wpscan": {
-  "stars": 9850,
-  "pushed": "2026-11-07",
+  "stars": 9862,
+  "pushed": "2026-11-19",
   "archived": false
  },
  "x64dbg/x64dbg": {
@@ -3287,8 +3287,8 @@
   "archived": false
  },
  "xalgorix/xalgorix": {
-  "stars": 1374,
-  "pushed": "2026-11-19",
+  "stars": 1378,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "xchwarze/Cain": {
@@ -3332,8 +3332,8 @@
   "archived": false
  },
  "zabbix/zabbix": {
-  "stars": 6579,
-  "pushed": "2026-11-17",
+  "stars": 6586,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "zecure/shadowd": {
@@ -3342,8 +3342,8 @@
   "archived": true
  },
  "zeek/zeek": {
-  "stars": 8260,
-  "pushed": "2026-11-19",
+  "stars": 8268,
+  "pushed": "2026-11-20",
   "archived": false
  },
  "zinja-coder/jadx-mcp-server": {
